@@ -64,7 +64,7 @@ The key point of [LLMCoder](https://github.com/ChrisTorng/LLMCoder) is using Mar
 
 5. When asking Claude to modify code, it will follow the instructions and output a Markdown diff.
 
-6. On the [LLMCoder online page](https://christorng.github.io/LLMCoder/), paste your source code, then paste the Markdown diff. It will automatically apply the changes to the source and copy to your clipboard.
+6. On the [LLMCoder online page](https://christorng.idv.tw/LLMCoder/), paste your source code, then paste the Markdown diff. It will automatically apply the changes to the source and copy to your clipboard.
 
 7. Paste the updated code back into your IDE to overwrite the source.
 
